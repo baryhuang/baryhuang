@@ -7,7 +7,7 @@ I'm passionate about leveraging AI technology to create practical tools that emp
 
 ## 🛠️ What I Do
 
-### MCP Server Development
+### Autonomous AI Agent / MCP Server Development
 I'm currently focused on building Model Context Protocol (MCP) servers that enable AI agents to interact with various services and platforms:
 
 * **[mcp-remote-macos-use](https://github.com/baryhuang/mcp-remote-macos-use)** - The first open-source MCP server that enables AI to fully control remote macOS systems through screen sharing. Allows AI agents to capture screenshots, send keyboard inputs, control mouse movements, and interact with any macOS application.
