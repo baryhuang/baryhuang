@@ -10,6 +10,8 @@ I'm passionate about leveraging AI technology to create practical tools that emp
 ### Autonomous AI Agent / MCP Server Development
 I'm currently focused on building Model Context Protocol (MCP) servers that enable AI agents to interact with various services and platforms:
 
+* **[agentic-mcp-client](https://github.com/peakmojo/agentic-mcp-client)** - The first open-source standalone agent runner that executes tasks using MCP (Model Context Protocol) tools via Anthropic Claude, AWS BedRock and OpenAI APIs. It enables AI agents to run autonomously in cloud environments and interact with various systems securely.
+
 * **[mcp-remote-macos-use](https://github.com/baryhuang/mcp-remote-macos-use)** - The first open-source MCP server that enables AI to fully control remote macOS systems through screen sharing. Allows AI agents to capture screenshots, send keyboard inputs, control mouse movements, and interact with any macOS application.
 
 * **[my-apple-remembers](https://github.com/baryhuang/my-apple-remembers)** - MCP server for reading and managing Apple Notes on macOS, giving AI assistants access to personal note content.
