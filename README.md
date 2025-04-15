@@ -14,11 +14,13 @@ I'm currently focused on building Model Context Protocol (MCP) servers that enab
 
 * **[mcp-remote-macos-use](https://github.com/baryhuang/mcp-remote-macos-use)** - The first open-source MCP server that enables AI to fully control remote macOS systems through screen sharing. Allows AI agents to capture screenshots, send keyboard inputs, control mouse movements, and interact with any macOS application.
 
-* **[my-apple-remembers](https://github.com/baryhuang/my-apple-remembers)** - MCP server for reading and managing Apple Notes on macOS, giving AI assistants access to personal note content.
-
 * **[mcp-hubspot](https://github.com/baryhuang/mcp-hubspot)** - MCP server for HubSpot CRM integration, allowing AI models to interact with HubSpot data and operations through a standardized interface.
 
 * **[mcp-headless-gmail](https://github.com/baryhuang/mcp-headless-gmail)** - Headless Gmail integration through MCP, enabling AI assistants to read, search, and send emails.
+
+* **[mcp-server-zoom-noauth](https://github.com/peakmojo/mcp-server-zoom-noauth)** - A MCP server for accessing Zoom recordings and transcripts without requiring direct authentication from the end user.
+
+* **[my-apple-remembers](https://github.com/baryhuang/my-apple-remembers)** - MCP server for reading and managing Apple Notes on macOS, giving AI assistants access to personal note content.
 
 * **[mcp-server-any-openapi](https://github.com/baryhuang/mcp-server-any-openapi)** - Production-grade solution for API spec analysis that indexes and queries OpenAPI endpoints using endpoint-centric semantic search.
 
