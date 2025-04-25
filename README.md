@@ -12,6 +12,8 @@ I'm currently focused on building Model Context Protocol (MCP) servers that enab
 
 * **[agentic-mcp-client](https://github.com/peakmojo/agentic-mcp-client)** - The first open-source standalone agent runner that executes tasks using MCP (Model Context Protocol) tools via Anthropic Claude, AWS BedRock and OpenAI APIs. It enables AI agents to run autonomously in cloud environments and interact with various systems securely.
 
+* **[voice-mcp-client](https://github.com/baryhuang/voice-mcp-client)** - A iOS/MacOS Swift MCP Client using voice interacting with python MCP servers both natively
+
 * **[mcp-remote-macos-use](https://github.com/baryhuang/mcp-remote-macos-use)** - The first open-source MCP server that enables AI to fully control remote macOS systems through screen sharing. Allows AI agents to capture screenshots, send keyboard inputs, control mouse movements, and interact with any macOS application.
 
 * **[mcp-hubspot](https://github.com/baryhuang/mcp-hubspot)** - MCP server for HubSpot CRM integration, allowing AI models to interact with HubSpot data and operations through a standardized interface.
