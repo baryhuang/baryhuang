@@ -14,6 +14,8 @@ I'm currently focused on building Model Context Protocol (MCP) servers that enab
 
 * **[agent-guard](https://github.com/peakmojo/agent-guard)** - AI agents that simulate voice calls to test production AI systems through realistic conversational scenarios
 
+* **[mcp-openmemory](https://github.com/baryhuang/mcp-openmemory)** - Simple standalone MCP server giving Claude the ability to remember your conversations and learn from them over time.
+
 * **[agentic-mcp-client](https://github.com/peakmojo/agentic-mcp-client)** - The first open-source standalone agent runner that executes tasks using MCP (Model Context Protocol) tools via Anthropic Claude, AWS BedRock and OpenAI APIs. It enables AI agents to run autonomously in cloud environments and interact with various systems securely.
 
 * **[mcp-remote-macos-use](https://github.com/baryhuang/mcp-remote-macos-use)** - The first open-source MCP server that enables AI to fully control remote macOS systems through screen sharing. Allows AI agents to capture screenshots, send keyboard inputs, control mouse movements, and interact with any macOS application.
