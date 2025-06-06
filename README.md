@@ -12,6 +12,8 @@ I'm currently focused on building Model Context Protocol (MCP) servers that enab
 
 * **[applescript-mcp](https://github.com/peakmojo/applescript-mcp)** - MCP server that execute applescript giving you full control of your Mac
 
+* **[agent-guard](https://github.com/peakmojo/agent-guard)** - AI agents that simulate voice calls to test production AI systems through realistic conversational scenarios
+
 * **[agentic-mcp-client](https://github.com/peakmojo/agentic-mcp-client)** - The first open-source standalone agent runner that executes tasks using MCP (Model Context Protocol) tools via Anthropic Claude, AWS BedRock and OpenAI APIs. It enables AI agents to run autonomously in cloud environments and interact with various systems securely.
 
 * **[voice-mcp-client](https://github.com/baryhuang/voice-mcp-client)** - A iOS/MacOS Swift MCP Client using voice interacting with python MCP servers both natively
