@@ -1,9 +1,7 @@
 # Hi there, I'm Bary Huang 👋
 
-## About Me
-AI Engineer focused on building intelligent agent systems and Model Context Protocol (MCP) infrastructure. Based in Seattle, I'm currently working on [PeakMojo](https://peakmojo.ai), building innovative AI-powered solutions for sales training and customer success.
-
-I'm passionate about leveraging AI technology to create practical tools that empower human-AI collaboration through standardized protocols. My work spans from backend development to AI agent architecture, with a focus on building infrastructure that connects AI models to real-world applications.
+**CTO @ PeakMojo (https://peakmojo.com)** • Seattle  
+Building the #1 AI-native platform for sales, customer success and engineering hiring, onboarding, onboarding—voice-AI simulations, predictive MojoScore™ leaderboards, and MCP-powered AI.
 
 ## 🛠️ What I Do
 
