@@ -48,6 +48,6 @@ I'm currently focused on building Model Context Protocol (MCP) servers that enab
 ## 🌐 Connect With Me
 * LinkedIn: [in/baryhuang](https://www.linkedin.com/in/baryhuang)
 * Website: [https://peakmojo.ai](https://peakmojo.ai)
-* Twitter: [@buryhuang](https://twitter.com/buryhuang)
+* Twitter: [@baryhuang](https://twitter.com/baryhuang)
 
 Feel free to reach out if you're interested in collaborating on Model Context Protocol projects or want to discuss the future of AI agent infrastructure!
