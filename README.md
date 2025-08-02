@@ -8,7 +8,7 @@ Building the #1 AI-native platform for sales, customer success and engineering h
 ### Autonomous AI Agent / MCP Server Development
 I'm currently focused on building Model Context Protocol (MCP) servers that enable AI agents to interact with various services and platforms:
 
-* **[awesome-claude-code-agents](https://github.com/honeybluesky/awesome-claude-code-agents)** - Claude Code Multi-agent agents that just work
+* **[claude-code-by-agents](https://github.com/baryhuang/claude-code-by-agents)** - Desktop app for multi-agent Claude Code orchestration - coordinate local and remote agents through @mentions and intelligent workflow automation.
 
 * **[applescript-mcp](https://github.com/peakmojo/applescript-mcp)** - MCP server that execute applescript giving you full control of your Mac
 
