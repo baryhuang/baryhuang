@@ -1,7 +1,7 @@
 # Hi there, I'm Bary Huang 👋
 
-**CTO @ PeakMojo (https://peakmojo.com)** • Seattle  
-Building the #1 AI-native platform for sales, customer success and engineering hiring, onboarding, onboarding—voice-AI simulations and MCP-powered AI.
+**CTO @ PeakMojo (https://peakmojo.com)** • San Francisco  
+Building the #1 Human-AI interaction evaluation infra.
 
 ## 🛠️ What I Do
 
