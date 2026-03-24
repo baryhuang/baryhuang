@@ -8,6 +8,9 @@ Building the #1 Human-AI interaction evaluation infra.
 ### Autonomous AI Agent / MCP Server Development
 I'm currently focused on building Model Context Protocol (MCP) servers that enable AI agents to interact with various services and platforms:
 
+
+* **[company-os](https://github.com/baryhuang/company-os)** - Desktop app that convert conversation to structured knowledge to execution — the operating system for startup founders.
+
 * **[claude-code-by-agents](https://github.com/baryhuang/claude-code-by-agents)** - Desktop app for multi-agent Claude Code orchestration - coordinate local and remote agents through @mentions and intelligent workflow automation.
 
 * **[applescript-mcp](https://github.com/peakmojo/applescript-mcp)** - MCP server that execute applescript giving you full control of your Mac
